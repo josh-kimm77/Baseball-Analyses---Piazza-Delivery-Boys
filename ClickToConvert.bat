@@ -1,0 +1,2 @@
+.\DocxToPdfConverter.exe .\docs .
+pause
